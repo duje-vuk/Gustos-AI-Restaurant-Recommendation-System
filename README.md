@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-MVP proof-of-concept that analyzes 200+ Google reviews across 10 Amsterdam restaurants to provide data-driven dining recommendations. Built as a first-year CS portfolio project.
+MVP proof-of-concept that analyzes 200 Google reviews across 10 Amsterdam restaurants to provide data-driven dining recommendations. Built as a first-year CS portfolio project.
 
 ## Sentiment Analysis Evaluation
 
@@ -38,11 +38,11 @@ Tested three NLP libraries on real Amsterdam restaurant reviews to find the most
 - 10 restaurants in Amsterdam
 - 20 Google reviews per restaurant (200 total)
 - Reviews manually collected and anonymized
-- Sentiment analysis run on full review text
+- Sentiment analysis completed on full dataset
 
 ## Project Status
 
-🚧 In development - MVP phase
+✅ Dataset complete - Ready for feature development
 
 ---
 
